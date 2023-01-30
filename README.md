@@ -60,7 +60,7 @@ npx minecraft-render minecraft-version.1.17.1.jar --filter "soul_campfire" --no-
 ```
 
 
-### Using Rendering API
+### Using Rendering api
 
 ```ts
 import { Minecraft } from 'minecraft-render';
